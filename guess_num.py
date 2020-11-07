@@ -1,3 +1,5 @@
+#пока сделал угадывание от 1 до 10
+
 import random
 Secret = "Я задумал число от 1 до 10."
 Case = random.randint(1, 10)
